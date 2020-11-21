@@ -22,3 +22,4 @@ Route::get('/home', 'HomeController@index')->name('home');
 Route::resource('/api/tasks', 'TaskController', [
     'except' => ['edit', 'show', 'create'],
 ]);
+/*Второе изменение*/
