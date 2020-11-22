@@ -1,0 +1,6 @@
+.actblock{
+    background:none!important;
+}
+.part-block:first-child{
+    margin-left:0;
+}
